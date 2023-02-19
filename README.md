@@ -1,4 +1,18 @@
 ### Hi there 👋
+I am Alex
+
+<details>
+<summary>Fun Universe</summary>
+
+| List | THINGS |
+|-----:|---------------|
+|     1|  DevOps       |
+|     2|  JavaScript   |
+|     3|  SQL          |
+|     3|  Shell        |
+
+</details>
+
 
 <!--
 **kerleau/kerleau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
